@@ -1,0 +1,13 @@
+{
+  "response": {
+    "data": [
+      { "respondent": "PJM", "respondentName": "PJM Interconnection", "regionName": "Mid-Atlantic", "period": "2024-01-15T12:00", "type": "LMP", "value": 45.23 },
+      { "respondent": "PJM", "respondentName": "PJM Interconnection", "regionName": "Mid-Atlantic", "period": "2024-01-15T13:00", "type": "LMP", "value": 48.67 },
+      { "respondent": "PJM", "respondentName": "PJM Interconnection", "regionName": "Mid-Atlantic", "period": "2024-01-15T12:00", "type": "D", "value": 45000 },
+      { "respondent": "PJM", "respondentName": "PJM Interconnection", "regionName": "Mid-Atlantic", "period": "2024-01-15T13:00", "type": "D", "value": 46200 },
+      { "respondent": "PJM", "fueltype": "naturalgas", "period": "2024-01-15T12:00", "value": 18500 },
+      { "respondent": "PJM", "fueltype": "coal", "period": "2024-01-15T12:00", "value": 12000 },
+      { "respondent": "PJM", "fueltype": "nuclear", "period": "2024-01-15T12:00", "value": 9800 }
+    ]
+  }
+}
